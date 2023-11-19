@@ -1,2 +1,2 @@
-# test-repository
-test repository
+# Graphic interface using Python
+Graphic interface using Python
